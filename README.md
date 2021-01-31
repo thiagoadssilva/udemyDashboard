@@ -6,6 +6,11 @@
 
 <hr/>
 
+## Link para o projeto publicado
+   - http://dashboard.tfcoder.com/
+
+<hr/>
+
 ## <b>Tela de Inicio</b> 
 
 ![Tela Principal](image/grafico.png)
