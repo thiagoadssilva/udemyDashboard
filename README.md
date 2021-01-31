@@ -8,7 +8,7 @@
 
 ## <b>Tela de Inicio</b> 
 
-![Tela Principal](images/homeScreen.png)
+![Tela Principal](image/grafico.png)
 
 <hr>
 
